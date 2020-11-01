@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1604218566311,
+  "timestamp": 1604219399900,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.9ce238788bd4fad92795.js",
+        "/main.a1ca31c56c6664ed584d.js",
         "/manifest.webmanifest",
         "/polyfills.a4021de53358bb0fec14.js",
         "/runtime.e227d1a0e31cbccbf8ec.js",
@@ -72,8 +72,8 @@
     "/assets/icons/icon-96x96.png": "a0665523a28cdd29f4bd7302937f78c9f8a6bfee",
     "/assets/math-loving-unicorn.png": "c096445e983a17665606cb94fe82d3e90cb328ab",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "0f5f34a6f78ebae42f3479dc0be1d5ed6126dbd3",
-    "/main.9ce238788bd4fad92795.js": "f5fbb656591ee0111ccd6b3800588644357eb930",
+    "/index.html": "f758cc2ec6827f682435ff1285d603dd27a33681",
+    "/main.a1ca31c56c6664ed584d.js": "cb9486ab304e311be982103274fb0c06c2aef003",
     "/manifest.webmanifest": "6c8b40170c329c984ddc8da9c062b6ceceb177d2",
     "/math-loving-unicorn.9ac528bb2bdc2ca13a39.png": "c096445e983a17665606cb94fe82d3e90cb328ab",
     "/polyfills.a4021de53358bb0fec14.js": "b47435a9ef2a4829f2f9dfd35599bde3614981b1",
