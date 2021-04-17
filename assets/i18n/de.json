@@ -1,0 +1,8 @@
+{
+  "ERROR": {
+    "INPUT": {
+      "REQUIRED": "Wert ist erforderlich.",
+      "MIN": "Minimalwert unterschritten."
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1604219399900,
+  "timestamp": 1618683747492,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.a1ca31c56c6664ed584d.js",
+        "/main.f89bb5356ef896be1c29.js",
         "/manifest.webmanifest",
         "/polyfills.a4021de53358bb0fec14.js",
         "/runtime.e227d1a0e31cbccbf8ec.js",
-        "/styles.d44af3f084fdeb207d38.css"
+        "/styles.ae00322c3df66b4bfd78.css"
       ],
       "patterns": []
     },
@@ -29,6 +29,7 @@
         "ignoreVary": true
       },
       "urls": [
+        "/assets/i18n/de.json",
         "/assets/icons/apple-touch-icon.png",
         "/assets/icons/icon-128x128.png",
         "/assets/icons/icon-144x144.png",
@@ -61,6 +62,7 @@
     }
   ],
   "hashTable": {
+    "/assets/i18n/de.json": "0ce8fb6dfb3eda49de89437f158766495d16de94",
     "/assets/icons/apple-touch-icon.png": "e71be904f21acee59129dfda0653704a2533b419",
     "/assets/icons/icon-128x128.png": "e71be904f21acee59129dfda0653704a2533b419",
     "/assets/icons/icon-144x144.png": "4ab95da3903893acae719048935d0857bd4216d7",
@@ -72,13 +74,13 @@
     "/assets/icons/icon-96x96.png": "a0665523a28cdd29f4bd7302937f78c9f8a6bfee",
     "/assets/math-loving-unicorn.png": "c096445e983a17665606cb94fe82d3e90cb328ab",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "f758cc2ec6827f682435ff1285d603dd27a33681",
-    "/main.a1ca31c56c6664ed584d.js": "cb9486ab304e311be982103274fb0c06c2aef003",
+    "/index.html": "11e0898042a157bf9c880c1ac60cddf563cbac39",
+    "/main.f89bb5356ef896be1c29.js": "e9c087ec307db27ca96d4acb14e79ca93694705d",
     "/manifest.webmanifest": "6c8b40170c329c984ddc8da9c062b6ceceb177d2",
     "/math-loving-unicorn.9ac528bb2bdc2ca13a39.png": "c096445e983a17665606cb94fe82d3e90cb328ab",
     "/polyfills.a4021de53358bb0fec14.js": "b47435a9ef2a4829f2f9dfd35599bde3614981b1",
     "/runtime.e227d1a0e31cbccbf8ec.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/styles.d44af3f084fdeb207d38.css": "72b6a4abfa53fef0502c2aea0f132bad106d2adf"
+    "/styles.ae00322c3df66b4bfd78.css": "e76e768829c1f4b88b5dac7b159f5683e88ac138"
   },
   "navigationUrls": [
     {
